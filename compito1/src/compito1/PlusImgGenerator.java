@@ -13,5 +13,4 @@ public class PlusImgGenerator extends ImgGenerator {
 		Person nPerson=new PlusPerson();
 		return nPerson;
 	}
-	
 }
